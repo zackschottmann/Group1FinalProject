@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/ZSVlo/Downloads/FInal - Copy/FInal/Content/Audio/invaderkilled.wav</SourceFile>
+  <SourceTime>2024-12-01T19:38:53.8436499-05:00</SourceTime>
+  <DestFile>C:/Users/ZSVlo/Downloads/FInal - Copy/FInal/Content/bin/DesktopGL/Content/Audio/invaderkilled.xnb</DestFile>
+  <DestTime>2024-12-01T21:07:56.2158132-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

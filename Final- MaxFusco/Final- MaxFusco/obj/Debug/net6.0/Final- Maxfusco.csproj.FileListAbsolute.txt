@@ -1,0 +1,42 @@
+C:\Users\Max\source\repos\FInal\FInal\obj\Debug\net6.0\FInal.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\FInal\FInal\obj\Debug\net6.0\FInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\FInal\FInal\obj\Debug\net6.0\FInal.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\FInal\FInal\obj\Debug\net6.0\FInal.AssemblyInfo.cs
+C:\Users\Max\source\repos\FInal\FInal\obj\Debug\net6.0\FInal.csproj.CoreCompileInputs.cache
+C:\Users\Keval\Desktop\Game Data Structure\FInal - Copy\FInal\obj\Debug\net6.0\FInal.csproj.AssemblyReference.cache
+C:\Users\Keval\Desktop\Game Data Structure\FInal - Copy\FInal\obj\Debug\net6.0\FInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keval\Desktop\Game Data Structure\FInal - Copy\FInal\obj\Debug\net6.0\FInal.AssemblyInfoInputs.cache
+C:\Users\Keval\Desktop\Game Data Structure\FInal - Copy\FInal\obj\Debug\net6.0\FInal.AssemblyInfo.cs
+C:\Users\Keval\Desktop\Game Data Structure\FInal - Copy\FInal\obj\Debug\net6.0\FInal.csproj.CoreCompileInputs.cache
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Audio\invaderkilled.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Audio\space-station-247790.ogg
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Audio\space-station-247790.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Graphics\Backround.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Graphics\Bullet.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Graphics\enemy.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\Content\Graphics\SpaceShip.xnb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\FInal.exe
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\FInal.deps.json
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\FInal.runtimeconfig.json
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\FInal.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\FInal.pdb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.csproj.AssemblyReference.cache
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.AssemblyInfoInputs.cache
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.AssemblyInfo.cs
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.csproj.CoreCompileInputs.cache
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.csproj.Up2Date
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\refint\FInal.dll
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.pdb
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\FInal.genruntimeconfig.cache
+C:\Users\ZSVlo\Downloads\FInal - Copy\FInal\obj\Debug\net6.0\ref\FInal.dll
